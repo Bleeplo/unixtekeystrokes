@@ -42,4 +42,6 @@ Now that all the requirements are setup. Find where your Python directory is loc
 For example, Manjaro users. Your Python module directory would be something like " /home/user/.local/lib/python3.9/site-packages/"
 
 And that should be all there is to the setup.
- Why don't I make this for pip? Because I don't really want to. I just don't care enough to do so.
+Why don't I make this for pip? Because I don't really want to. I just don't care enough to do so.
+
+Also I provided a list of Chr() codes that is used for when you are using the "keystroke detection" functions.
