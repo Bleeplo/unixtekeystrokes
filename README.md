@@ -1,7 +1,7 @@
 # unixtekeystrokes
 Unixtekeystrokes is a custom python module for Linux/Unix systems. That allow for custom macros. Using xte.
 
-Rough description of what this script has:
+Rough description of what this script has
 -Artificial keystrokes
 -Artificial mouse movements/actions
 -Keystroke detection -> Do this & kill listening
