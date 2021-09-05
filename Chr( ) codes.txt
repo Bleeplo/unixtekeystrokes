@@ -1,0 +1,129 @@
+QTP CODE 	SYMBOL 	DESCRIPTION
+Chr(0) 	NUL 	Null char
+Chr(1) 	SOH 	Start of Heading
+Chr(2) 	STX 	Start of Text
+Chr(3) 	ETX 	End of Text
+Chr(4) 	EOT 	End of Transmission
+Chr(5) 	ENQ 	Enquiry
+Chr(6) 	ACK 	Acknowledgment
+Chr(7) 	BEL 	Bell
+Chr(8) 	BS 	Back Space
+Chr(9) 	HT 	Horizontal Tab
+Chr(10) 	LF 	Line Feed
+Chr(11) 	VT 	Vertical Tab
+Chr(12) 	FF 	Form Feed
+Chr(13) 	CR 	Carriage Return
+Chr(14) 	SO 	Shift Out / X-On
+Chr(15) 	SI 	Shift In / X-Off
+Chr(16) 	DLE 	Data Line Escape
+Chr(17) 	DC1 	Device Control 1 (oft. XON)
+Chr(18) 	DC2 	Device Control 2
+Chr(19) 	DC3 	Device Control 3 (oft. XOFF)
+Chr(20) 	DC4 	Device Control 4
+Chr(21) 	NAK 	Negative Acknowledgement
+Chr(22) 	SYN 	Synchronous Idle
+Chr(23) 	ETB 	End of Transmit Block
+Chr(24) 	CAN 	Cancel
+Chr(25) 	EM 	End of Medium
+Chr(26) 	SUB 	Substitute
+Chr(27) 	ESC 	Escape
+Chr(28) 	FS 	File Separator
+Chr(29) 	GS 	Group Separator
+Chr(30) 	RS 	Record Separator
+Chr(31) 	US 	Unit Separator
+Chr(32) 		Space
+Chr(33) 	! 	Exclamation mark
+Chr(34) 	“ 	Double quotes (or speech marks)
+Chr(35) 	# 	Number
+Chr(36) 	$ 	Dollar
+Chr(37) 	% 	Procenttecken
+Chr(38) 	& 	Ampersand
+Chr(39) 	‘ 	Single quote
+Chr(40) 	( 	Open parenthesis (or open bracket)
+Chr(41) 	) 	Close parenthesis (or close bracket)
+Chr(42) 	* 	Asterisk
+Chr(43) 	+ 	Plus
+Chr(44) 	, 	Comma
+Chr(45) 	– 	Hyphen
+Chr(46) 	. 	Period, dot or full stop
+Chr(47) 	/ 	Slash or divide
+Chr(48) 	0 	Zero
+Chr(49) 	1 	One
+Chr(50) 	2 	Two
+Chr(51) 	3 	Three
+Chr(52) 	4 	Four
+Chr(53) 	5 	Five
+Chr(54) 	6 	Six
+Chr(55) 	7 	Seven
+Chr(56) 	8 	Eight
+Chr(57) 	9 	Nine
+Chr(58) 	: 	Colon
+Chr(59) 	; 	Semicolon
+Chr(60) 	< 	Less than (or open angled bracket)
+Chr(61) 	= 	Equals
+Chr(62) 	> 	Greater than (or close angled bracket)
+Chr(63) 	? 	Question mark
+Chr(64) 	@ 	At symbol
+Chr(65) 	A 	Uppercase A
+Chr(66) 	B 	Uppercase B
+Chr(67) 	C 	Uppercase C
+Chr(68) 	D 	Uppercase D
+Chr(69) 	E 	Uppercase E
+Chr(70) 	F 	Uppercase F
+Chr(71) 	G 	Uppercase G
+Chr(72) 	H 	Uppercase H
+Chr(73) 	I 	Uppercase I
+Chr(74) 	J 	Uppercase J
+Chr(75) 	K 	Uppercase K
+Chr(76) 	L 	Uppercase L
+Chr(77) 	M 	Uppercase M
+Chr(78) 	N 	Uppercase N
+Chr(79) 	O 	Uppercase O
+Chr(80) 	P 	Uppercase P
+Chr(81) 	Q 	Uppercase Q
+Chr(82) 	R 	Uppercase R
+Chr(83) 	S 	Uppercase S
+Chr(84) 	T 	Uppercase T
+Chr(85) 	U 	Uppercase U
+Chr(86) 	V 	Uppercase V
+Chr(87) 	W 	Uppercase W
+Chr(88) 	X 	Uppercase X
+Chr(89) 	Y 	Uppercase Y
+Chr(90) 	Z 	Uppercase Z
+Chr(91) 	[ 	Opening bracket
+Chr(92) 	\ 	Backslash
+Chr(93) 	] 	Closing bracket
+Chr(94) 	^ 	Caret – circumflex
+Chr(95) 	_ 	Underscore
+Chr(96) 	` 	Grave accent
+Chr(97) 	a 	Lowercase a
+Chr(98) 	b 	Lowercase b
+Chr(99) 	c 	Lowercase c
+Chr(100) 	d 	Lowercase d
+Chr(101) 	e 	Lowercase e
+Chr(102) 	f 	Lowercase f
+Chr(103) 	g 	Lowercase g
+Chr(104) 	h 	Lowercase h
+Chr(105) 	i 	Lowercase i
+Chr(106) 	j 	Lowercase j
+Chr(107) 	k 	Lowercase k
+Chr(108) 	l 	Lowercase l
+Chr(109) 	m 	Lowercase m
+Chr(110) 	n 	Lowercase n
+Chr(111) 	o 	Lowercase o
+Chr(112) 	p 	Lowercase p
+Chr(113) 	q 	Lowercase q
+Chr(114) 	r 	Lowercase r
+Chr(115) 	s 	Lowercase s
+Chr(116) 	t 	Lowercase t
+Chr(117) 	u 	Lowercase u
+Chr(118) 	v 	Lowercase v
+Chr(119) 	w 	Lowercase w
+Chr(120) 	x 	Lowercase x
+Chr(121) 	y 	Lowercase y
+Chr(122) 	z 	Lowercase z
+Chr(123) 	{ 	Opening brace
+Chr(124) 	| 	Vertical bar
+Chr(125) 	} 	Closing brace
+Chr(126) 	~ 	Equivalency sign – tilde
+Chr(127) 		Delete
