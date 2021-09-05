@@ -6,7 +6,9 @@ Rough description of what this script has:
 2.Artificial mouse movements/actions
 3.Keystroke detection -> Do this & kill listening
 4.Keystroke 1 -> do something; Keystroke 2 -> Kill listening
+
 ////////////////////////////////////////////////////////////////////////////
+
 So this does require XTE. Here is how to install xautomation on other Linux distros.
 Debian: 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -26,6 +28,7 @@ Visit this link and read it: https://archlinux.org/packages/community/x86_64/xau
 **(Manjaro: use "Add/Remove software" and search up "xautomation")**
 
 ////////////////////////////////////////////////////////////////////////////
+
 Once that is done. You are going to need to have the pyxhook module (pip install pyxhook) for the keystroke detection to work.
 
 
