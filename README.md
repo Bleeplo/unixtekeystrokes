@@ -18,7 +18,8 @@ sudo apt-get install -y xautomation
 
 Arch: 
 Visit this link and read it: https://archlinux.org/packages/community/x86_64/xautomation/
-(Manjaro: use "Add/Remove software" and search up "xautomation")
+
+**(Manjaro: use "Add/Remove software" and search up "xautomation")**
 
 Once that is done. You are going to need to have the pyxhook module (pip install pyxhook) for the keystroke detection to work.
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
