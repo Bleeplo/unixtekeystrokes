@@ -23,6 +23,7 @@ Visit this link and read it: https://archlinux.org/packages/community/x86_64/xau
 
 Once that is done. You are going to need to have the pyxhook module (pip install pyxhook) for the keystroke detection to work.
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
 Now that all the requirements are setup. Find where your Python directory is located. Specifically where your modules are located.
 For example, Manjaro users. Your Python module directory would be something like " /home/user/.local/lib/python3.9/site-packages/"
 
