@@ -2,10 +2,10 @@
 Unixtekeystrokes is a custom python module for Linux/Unix systems. That allow for custom macros. Using xte.
 
 Rough description of what this script has:
->Artificial keystrokes
->Artificial mouse movements/actions
->Keystroke detection -> Do this & kill listening
->Keystroke 1 -> do something; Keystroke 2 -> Kill listening
+-Artificial keystrokes
+-Artificial mouse movements/actions
+-Keystroke detection -> Do this & kill listening
+-Keystroke 1 -> do something; Keystroke 2 -> Kill listening
 ----------------------------------------
 So this does require XTE. Here is how to install xautomation on other Linux distros.
 Debian: 
